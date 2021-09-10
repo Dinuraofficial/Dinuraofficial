@@ -8,7 +8,7 @@ Dinura Nikalansuriya
 
 🤝 I’m interested in: developing softwares.
 
-👨‍💻 All of my projects are available at:https://t.me/Dinuranikalansuriya
+👨‍💻 All of my projects are available at:https://github.com/Dinuraofficial/Dinuraofficial
 
 📫 How to reach me:https://t.me/Dinuranikalansuriya
 
