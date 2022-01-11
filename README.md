@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dinuraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Dinuraofficial" /> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="Dinuraofficial" /></a> 
+<p align="center">
+  <img src="https://te.legra.ph/file/37a62d9feb0d7dd01e339.jpg" width="500px"">
+</p>
 
 <ul type = square>
 <li align="left">🚶‍♂️ I'm live in: Sri Lanka</p></li>
