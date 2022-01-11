@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dinuraofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Dinuraofficial" /> </p>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/37a62d9feb0d7dd01e339.jpg" height="400" width="500"">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dinuraofficial" alt="Dinuraofficial" /></a> 
 </p>
 
 <ul type = square>
